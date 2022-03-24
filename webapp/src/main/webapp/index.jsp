@@ -1,2 +1,2 @@
-<h1> Helloworld from docker  !!! </h1>
+<h1> Kubernetes Deployment is successful!! </h1>
 
