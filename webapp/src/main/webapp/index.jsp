@@ -1,2 +1,2 @@
-<h1> Welcom to Kubernetes Deployment successfully !!!!! </h1>
+<h1> Hi Kubernetes Deployment successfully !!!!! </h1>
 
